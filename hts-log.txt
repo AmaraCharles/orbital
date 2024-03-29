@@ -1,0 +1,358 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 14 Mar 2024 16:02:17 at https://orbitalcopytrading.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+orbitalcopytrading.com
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://copytdmarkerts.com/ -O1 "C:\My Web Sites\copytd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+orbitalcopytrading.comorbitalcopytrading.com
+	do not share these files/folders if you want theseorbitalcopytrading.commain privateorbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:02:17	Warning: 	Cache: damaged cache, trying to orbitalcopytrading.comorbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:02:17	Warning: 	Cache: 0 bytes successfully recoorbitalcopytrading.comorbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:02:17	Warning: 	Cache: error trying to open thorbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:03:17	Error: 	"Not Found" (404) at link https:orbitalcopytrading.comom/img/favicons/apple-touch-icon.png (from https://copytdmarkerts.com/)
+orbitalcopytrading.comorbitalcopytrading.com
+16:03:17	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/favicons/favicon-32x32.png orbitalcopytrading.comtdmarkerts.com/)
+orbitalcopytrading.comorbitalcopytrading.com
+16:03:17	Error: 	"Not Found" (404) at link https:orbitalcopytrading.comom/img/favicons/favicon-16x16.png (from https://copytdmarkerts.com/)
+orbitalcopytrading.comorbitalcopytrading.com
+16:03:17	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/favicons/favicon.ico (from https://orbitalcopytrading.com/)
+orbitalcopytrading.comorbitalcopytrading.com
+16:03:17	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/favicons/safari-pinned-tab.svg (from https://copytdmarkerts.com/)orbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:03:17	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/favicons/site.webmanifest (from https://copytdmarkerts.com/)orbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:03:17	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/favicons/browserconfig.xml (from https://copytdmarkerts.com/)orbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:03:17	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/favicon.png (from https://copytdmarkerts.com/)orbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:30	Error: 	"Error when decompressing" (-1) atorbitalcopytrading.comtdmarkerts.com/“https://www.smorbitalcopytrading.com https://copytdmarkerts.com/)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:39	Warning: 	Moved Permanently for https://coorbitalcopytrading.comn/faq/orbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:39	Warning: 	File has moved from https://copyorbitalcopytrading.comfaq/ to https://copytdmarkerts.com/enorbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:40	Warning: 	Moved Permanently for https://coorbitalcopytrading.comn/about-us/orbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:40	Warning: 	File has moved from https://copyorbitalcopytrading.comabout-us/ to https://copytdmarkerts.comorbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:41	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/platform.png (from https://copytdmarkeorbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:41	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/platform-mobile.png (from https://copytdmaorbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Warning: 	Moved Permanently for https://coorbitalcopytrading.comaq/orbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Warning: 	File has moved from https://copyorbitalcopytrading.com/ to https://copytdmarkerts.com/faqorbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/images/spritemap.svg (from https://coporbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/themes/cabinet/fonts/NunitoSansReorbitalcopytrading.comgular.eot (from https://copytdmarkerts.com/auth/blank.min.css)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/themes/cabinet/fonts/NunitoSansReguorbitalcopytrading.comlar.eot? (from https://copytdmarkerts.com/auth/blank.min.css)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/themes/cabinet/fonts/NunitoSansReguorbitalcopytrading.comlar.woff (from https://copytdmarkerts.com/auth/blank.min.css)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/themes/cabinet/fonts/NunitoSansReorbitalcopytrading.comgular.ttf (from https://copytdmarkerts.com/auth/blank.min.css)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/themes/cabinet/fonts/OpenSansSemiBoorbitalcopytrading.comld.eot (from https://copytdmarkerts.com/auth/blank.min.css)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/themes/cabinet/fonts/OpenSansSemorbitalcopytrading.comiBold.eot? (from https://copytdmarkerts.com/auth/blank.min.css)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/themes/cabinet/fonts/OpenSansSemiBorbitalcopytrading.comold.woff (from https://copytdmarkerts.com/auth/blank.min.css)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/themes/cabinet/fonts/OpenSansSemorbitalcopytrading.comiBold.ttf (from https://copytdmarkerts.com/auth/blank.min.css)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/svg/icon-left.svg (from https://copyorbitalcopytrading.comh/blank.min.css)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/png/ic-eye.png (from https://copytdmarkerts.orbitalcopytrading.com.css)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/png/ic-eye@2x.png (from https://copytorbitalcopytrading.com/blank.min.css)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/png/icon-facebook.png (from https://orbitalcopytrading.com/auth/blank.min.css)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/png/icon-google.png (from https:/orbitalcopytrading.comm/auth/blank.min.css)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:43	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/fonts/Roboto-Thin.ttf (from https://copyorbitalcopytrading.com/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/fonts/Roboto-Thinitalic.ttf (from httporbitalcopytrading.com.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/fonts/Robotolight.ttf (from https://orbitalcopytrading.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/fonts/Roboto-Lightitalic.ttf (from horbitalcopytrading.comrts.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/fonts/Roboto-Italic.ttf (from httorbitalcopytrading.coms.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/fonts/Roboto-Mediumitalic.ttf (from orbitalcopytrading.comerts.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/fonts/Roboto-Bolditalic.ttf (from httorbitalcopytrading.coms.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/fonts/Roboto-Blackitalic.ttf (from horbitalcopytrading.comrts.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/arrow-green-right.svg (forbitalcopytrading.commarkerts.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/youtube-white.svg (from https:orbitalcopytrading.comom/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/facebook-white.svg (from htorbitalcopytrading.comts.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/instagram-white.svg (from orbitalcopytrading.comerts.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/twitter-white.svg (from https://coporbitalcopytrading.coms/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/arrow-right-white.svg (from horbitalcopytrading.comrts.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/arrow-contact.svg (from httporbitalcopytrading.com.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/online-learning.svg (from httorbitalcopytrading.coms.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/mind.svg (from https://copytdmorbitalcopytrading.comin.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/bubble-speak.svg (from https:/orbitalcopytrading.comm/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/skrill.svg (from https://copyorbitalcopytrading.com/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/neteller.svg (from https://orbitalcopytrading.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/yandex.svg (from https://coporbitalcopytrading.coms/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/webmoney.svg (from https://corbitalcopytrading.comcss/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/qiwi.svg (from https://copytdorbitalcopytrading.comain.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/rupay.svg (from https://copytdmarorbitalcopytrading.com.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/airtel.svg (from https:/orbitalcopytrading.comm/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/olamoney.svg (from https://copyorbitalcopytrading.com/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/upi.svg (from https://copytdmarkeorbitalcopytrading.comin.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/mobikwik.svg (from htorbitalcopytrading.comts.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/paytm.svg (from https://coorbitalcopytrading.comss/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/bank_indian.svg (from https:orbitalcopytrading.comom/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/bni.svg (from https://copytdmarkerorbitalcopytrading.comn.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/doku.svg (from https://copytdmarkorbitalcopytrading.commin.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/mandiri.svg (from https:orbitalcopytrading.comom/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/danamon.svg (from https:orbitalcopytrading.comom/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/bank_indonesian.svg (fromorbitalcopytrading.comkerts.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/pix.svg (from https://copytdmarkorbitalcopytrading.commin.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/paylivre.svg (from https://copytdmarorbitalcopytrading.com.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/itau.svg (from https://copytdorbitalcopytrading.comain.min.css?6)
+orbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/maybank.svg (from https://copytdmarkerts.com/css/maorbitalcopytrading.com
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkertsorbitalcopytrading.com_bank.svg (from https:orbitalcopytrading.comom/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (40orbitalcopytrading.com/copytdmarkerts.com/img/icons/cimb.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+orbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/hong_leon.svg (frorbitalcopytrading.comarkerts.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/public_bank.svg (from orbitalcopytrading.comerts.com/css/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/bank_malasia.svg (from orbitalcopytrading.comerts.com/css/main.min.css?6)
+orbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/promptpay.svg (from https://coporbitalcopytrading.coms/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://orbitalcopytrading.com/img/icons/bank_thailand.svg (from https://corbitalcopytrading.comcss/main.min.css?6)
+orbitalcopytrading.comorbitalcopytrading.com
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/grabpay.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/gcash.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/paymaya.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/coins_ph.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/momo.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/bank_vietnam.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/yomoney.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/fkwallet.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/piastrix.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/analytics.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/diagram.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/graph.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/award.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/rocket.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/businessman.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/youtube.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/facebook.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/instagram.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/twitter.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/arrow-dark-down.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/arrow-white-down.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/english.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/russia.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/portugal.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/spain.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/italian.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/poland.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/france.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/deutsch.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/indonesian.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/ukraine.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/china.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/turkey.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/india.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/iran.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/thailand.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/saudi.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/vietnam.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/malay.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/philippines.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/brazil.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/japan.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/bangladesh.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/article.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/video.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/facebook-color.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/google-color.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/vk-color.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/facebook-login.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/google.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/vk.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/error.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/tw-blue.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/tg-blue.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/inst-blue.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/fb-blue.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/arrow-dark-left.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/arrow-dark-right.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/arrow-green-up.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/arrow-red-down.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/quotex_logo.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/quotex_logo-white-mobile.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/alert.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/quote.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/to-top.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/plainCon.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/beforecontact.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/about-us-modern-mobile.png (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/about-us-problem-quotes.svg (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/about-us-innovation-mobile.png (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/main/appendix-bg.png (from https://copytdmarkerts.com/css/main.min.css?6)
+
+16:05:44	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link ../img/favicon.png (from https://copytdmarkerts.com/login)
+
+16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/assets/images/seo/62e1644a6eaf71658938442.jpeg (from https://copytdmarkerts.com/login)
+
+16:05:51	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/assets/templates/basic/newfront/png/header-bg-3.png (from https://copytdmarkerts.com/login)
+
+16:05:51	Error: 	"Error when decompressing" (-1) at link https://copytdmarkerts.com/en/faq (from https://copytdmarkerts.com/en/faq/)
+
+16:05:51	Error: 	"Error when decompressing" (-1) at link https://copytdmarkerts.com/en/about-us (from https://copytdmarkerts.com/en/about-us/)
+
+16:05:51	Warning: 	Link https://copytdmarkerts.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+
+16:05:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ../img/favicon.png (from https://copytdmarkerts.com/login)
+
+16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/auth/aos.css (from https://copytdmarkerts.com/auth/app.css)
+
+16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/auth/png/crypto.png (from https://copytdmarkerts.com/auth/app.css)
+
+16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/png/bg-sale-1.png (from https://copytdmarkerts.com/auth/app.css)
+
+16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/png/bg-couter.png (from https://copytdmarkerts.com/auth/app.css)
+
+16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/png/arrow-down.png (from https://copytdmarkerts.com/auth/app.css)
+
+16:05:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ../img/favicon.png (from https://copytdmarkerts.com/login)
+
+16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/eot/icomoon3f14.eot?422y2y (from https://copytdmarkerts.com/auth/style.css)
+
+16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/ttf/icomoon3f14.ttf?422y2y (from https://copytdmarkerts.com/auth/style.css)
+
+16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/woff/icomoon3f14.woff?422y2y (from https://copytdmarkerts.com/auth/style.css)
+
+16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/svg/icomoon3f14.svg?422y2y (from https://copytdmarkerts.com/auth/style.css)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 38 seconds : 227 links scanned, 65 files written (4018354 bytes overall) [2843861 bytes received at 13045 bytes/sec], 3383512 bytes transferred using HTTP compression in 195 files, ratio 30%, 14.0 requests per connection
+
+(156 errors, 12 warnings, 0 messages)
+
