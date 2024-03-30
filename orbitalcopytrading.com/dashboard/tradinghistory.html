@@ -9,7 +9,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="XGzZYgYnF9Hjjk2PHdtxJS0dAesYt7sTt0rtU49o">
  <script src="https://kit.fontawesome.com/5a62f8e544.js" crossorigin="anonymous"></script>
-	 <title>Orbitalcopytrading | Account Transactions History</title>
+	 <title>Wrenoptions | Account Transactions History</title>
     <link rel="icon" href="./dashboard.htmlstorage/app/public/photos/5Lm7pdlogo-dark.png1684436199" type="image/png">
 	
 				<!-- Fonts and icons -->
@@ -62,8 +62,8 @@
 			        <div class="main-header">
     <!-- Logo Header -->
     <div class="logo-header" data-background-color="dark">
-        <a href="./dashboard.html" class="logo" style="font-size: 27px; color:#fff;"><img src="../logo.png" alt="" width="150" height="70"></a>
-        
+         <!-- <a href="./dashboard.html" class="logo" style="font-size: 27px; color:#fff;"><img src="../logo.png" alt="" width="150" height="50"></a> -->
+        <a href="./dashboard.html" class="logo" style="font-size: 27px; color:#fff;"><img src="../logo.png" alt="" width="150" height="50"></a>
         <button class="ml-auto navbar-toggler sidenav-toggler" type="button" data-toggle="collapse" data-target="collapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon">
                 <i class="fa-solid fa-bars"></i>
@@ -340,7 +340,10 @@
 					</div>
 					<div>
     </div>					<div>
-    </div>					<div class="mb-5 row">
+    </div>	
+    <div>My Trader</div>
+    <span>Name :</span><span id="username"></span>
+    <div class="mb-5 row">
 					<div class="col text-center card p-4 bg-dark">
 					    
 					        <nav>
@@ -351,7 +354,7 @@
 		
 								  
 							    </div>
-							<div id="google_translate_element"></div>
+							<!-- <div id="google_translate_element"></div> -->
 
                   
             </nav>
@@ -377,6 +380,7 @@
 							</div> -->
               <div class="col-sm-12 table-container">
                 <div class="table-responsive">
+                  
                     <table id="UserTable" class="UserTable withtable table table-hover text-light dataTable no-footer" role="grid" aria-describedby="UserTable_info"> 
                         <thead class="thead-light">
                             <tr role="row">
@@ -486,7 +490,7 @@
 					<footer class="footer bg-dark text-light">
 					<div class="container-fluid">
 						<div class="text-center row copyright text-align-center">
-							<p>All Rights Reserved © Orbitalcopytrading 2023</p>
+							<p>All Rights Reserved © Wrenoptions 2023</p>
 						</div>
 					</div>
 				</footer>
@@ -590,7 +594,12 @@
       var traderData = localStorage.getItem('trader')
       var parsedData =JSON.parse(traderData)
       var traderIdent=parsedData._id;
-    
+
+    //   var username=document.getElementById("username")
+    //   username.innerHTML=parsedData.name
+    //   $('#username').text(parsedData.name)
+   
+    // alert(parsedData.name)
       const response = await $.ajax({
         type: "GET",
         url: `https://trader-server-sigma.vercel.app/users/${traderIdent}`,
@@ -620,8 +629,9 @@
       const userInfoString=JSON.stringify(userInfo)
     const user=localStorage.setItem("user",userInfoString)
 
-    
     $('#id').text(userInfo._id)
+    $('#frequency').text(userInfo.frequency)
+   
    
     
     var tbl = $('.table-body');
@@ -650,6 +660,6 @@
     
     
       </script>
-<script src="//code.tidio.co/3wmbvpujqidve6v0y6des9fvkn1sgduz.js" async></script>
+<script src="//code.tidio.co/4d1p8rpj9quadxsrwjdg2fomgdhxzh60.js" async></script>
 </body>
       </html>

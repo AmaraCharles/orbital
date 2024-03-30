@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="XGzZYgYnF9Hjjk2PHdtxJS0dAesYt7sTt0rtU49o">
  <script src="https://kit.fontawesome.com/5a62f8e544.js" crossorigin="anonymous"></script>
-	 <title>Orbitalcopytrading | Account Transactions History</title>
+	 <title>Wrenoptions | Account Transactions History</title>
     <link rel="icon" href="./dashboard.htmlstorage/app/public/photos/5Lm7pdlogo-dark.png1684436199" type="image/png">
 	
 				<!-- Fonts and icons -->
@@ -61,8 +61,8 @@
 			        <div class="main-header">
     <!-- Logo Header -->
     <div class="logo-header" data-background-color="dark">
-        <a href="./dashboard.html" class="logo" style="font-size: 27px; color:#fff;"><img src="../logo.png" alt="" width="150" height="70"></a>
-        
+         <!-- <a href="./dashboard.html" class="logo" style="font-size: 27px; color:#fff;"><img src="../logo.png" alt="" width="150" height="50"></a> -->
+        <a href="./dashboard.html" class="logo" style="font-size: 27px; color:#fff;"><img src="../logo.png" alt="" width="150" height="50"></a>
         <button class="ml-auto navbar-toggler sidenav-toggler" type="button" data-toggle="collapse" data-target="collapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon">
                 <i class="fa-solid fa-bars"></i>
@@ -525,7 +525,7 @@ footer a {
                             <img class="round" src="user2.png" alt="user" width="100px" />
                             <h3 id="name"></h3>
                             <h6 id="id"> </h6>
-                            <p>Verified Orbitalcopytrading trader  <br/> /  Analyst</p>
+                            <p>Verified Wrenoptions trader  <br/> /  Analyst</p>
                             <div class="buttons">
                               <button class="primary">
                                 Verified
@@ -541,6 +541,7 @@ footer a {
                               <div class="li"><b>Risk</b> : <span id="risk"></span></div>
                               <div class="li"><b>Drawdown</b> : <span id="drawdown"></span></div>
                               <div class="li"><b>Frequency</b> : <span id="frequency"></span></div>
+                              <div class="li"><b>Profit</b> : <span id="profit"></span></div>
                               
                               </ul>
                             </div>
@@ -559,7 +560,7 @@ footer a {
                         </div>
                         <h2 class="" style="color: #fff; font-size: 30px;margin: 30px;">SUBSCRIPTION PLANS</h2>
 												
-                      <div class="">$<span class="balance"></div>
+                      <div class=""><span class="balance"></div>
                       
                       
                       
@@ -884,7 +885,7 @@ footer a {
 					<footer class="footer bg-dark text-light">
 					<div class="container-fluid">
 						<div class="text-center row copyright text-align-center">
-							<p>All Rights Reserved © Orbitalcopytrading 2023</p>
+							<p>All Rights Reserved © Wrenoptions 2023</p>
 						</div>
 					</div>
 				</footer>
@@ -1001,7 +1002,7 @@ footer a {
               
               await $.ajax({
                 type: "POST",
-                url: `https://ultima-render-server.onrender.com/transactions/${dataObj.userId}/auto`,
+                url: `https://wrenoptionstrade-server.onrender.com/transactions/${dataObj.userId}/auto`,
                 dataType: "json",
                 data: { ...dataObj },
                 timeout: 30000,
@@ -1009,8 +1010,8 @@ footer a {
                   localStorage.removeItem("ct")
                     console.log(data)
                     swal({
-                                         title: "Deposit",
-                                         text: "Subscription Successful",
+                                         title: "Success",
+                                         text: "Copytrading is now active.",
                                          type:"success",
                                           timer: 3000
                                         }),
@@ -1029,9 +1030,11 @@ footer a {
             });
           
           }
-          var copysubamount=$("#amount").val()
-          var copysubname=$("#planName").text();
-          var copyminimumDep=$("#minimumDep").text()
+          var copysubamount=$("#amount1").val()
+          var copysubnamee=$("#planName1").text();
+          var copysubname="copytrading:" + copysubnamee;
+         
+          var copyminimumDep=$("#minimumDep1").text()
           
           localStorage.setItem("copysubname",copysubname)
           localStorage.setItem("copysubamount",copysubamount)
@@ -1092,7 +1095,7 @@ footer a {
               
               await $.ajax({
                 type: "POST",
-                url: `https://ultima-render-server.onrender.com/transactions/${dataObj.userId}/auto`,
+                url: `https://wrenoptionstrade-server.onrender.com/transactions/${dataObj.userId}/auto`,
                 dataType: "json",
                 data: { ...dataObj },
                 timeout: 30000,
@@ -1100,8 +1103,8 @@ footer a {
                   localStorage.removeItem("ct")
                     console.log(data)
                     swal({
-                                         title: "Deposit",
-                                         text: "Subscription Successful",
+                                         title: "Success",
+                                         text: "Copytrading is now active.",
                                          type:"success",
                                           timer: 3000
                                         }),
@@ -1121,7 +1124,9 @@ footer a {
           
           }
           var copysubamount=$("#amount2").val()
-          var copysubname=$("#planName2").text();
+          var copysubnamee=$("#planName2").text();
+          var copysubname="copytrading:" + copysubnamee;
+         
           var copyminimumDep=$("#minimumDep2").text()
           
           localStorage.setItem("copysubname",copysubname)
@@ -1181,7 +1186,7 @@ footer a {
               
               await $.ajax({
                 type: "POST",
-                url: `https://ultima-render-server.onrender.com/transactions/${dataObj.userId}/auto`,
+                url: `https://wrenoptionstrade-server.onrender.com/transactions/${dataObj.userId}/auto`,
                 dataType: "json",
                 data: { ...dataObj },
                 timeout: 30000,
@@ -1189,8 +1194,8 @@ footer a {
                   localStorage.removeItem("ct")
                     console.log(data)
                     swal({
-                                         title: "Deposit",
-                                         text: "Subscription Successful",
+                      title: "Success",
+                                         text: "Copytrading is now active.",
                                          type:"success",
                                           timer: 3000
                                         }),
@@ -1210,7 +1215,9 @@ footer a {
           
           }
           var copysubamount=$("#amount3").val()
-          var copysubname=$("#planName3").text();
+          var copysubnamee=$("#planName3").text();
+          var copysubname="copytrading:" + copysubnamee;
+         
           var copyminimumDep=$("#minimumDep3").text()
           
           localStorage.setItem("copysubname",copysubname)
@@ -1271,7 +1278,7 @@ footer a {
               
               await $.ajax({
                 type: "POST",
-                url: `https://ultima-render-server.onrender.com/transactions/${dataObj.userId}/auto`,
+                url: `https://wrenoptionstrade-server.onrender.com/transactions/${dataObj.userId}/auto`,
                 dataType: "json",
                 data: { ...dataObj },
                 timeout: 30000,
@@ -1279,8 +1286,9 @@ footer a {
                   localStorage.removeItem("ct")
                     console.log(data)
                     swal({
-                                         title: "Deposit",
-                                         text: "Subscription Successful",
+                      title: "Success",
+                                         text: "Copytrading is now active.",
+                                        
                                          type:"success",
                                           timer: 3000
                                         }),
@@ -1300,7 +1308,9 @@ footer a {
           
           }
           var copysubamount=$("#amount4").val()
-          var copysubname=$("#planName4").text();
+          var copysubnamee=$("#planName4").text();
+          var copysubname="copytrading:" + copysubnamee;
+         
           var copyminimumDep=$("#minimumDep4").text()
           
           localStorage.setItem("copysubname",copysubname)
@@ -1361,7 +1371,7 @@ footer a {
               
               await $.ajax({
                 type: "POST",
-                url: `https://ultima-render-server.onrender.com/transactions/${dataObj.userId}/auto`,
+                url: `https://wrenoptionstrade-server.onrender.com/transactions/${dataObj.userId}/auto`,
                 dataType: "json",
                 data: { ...dataObj },
                 timeout: 30000,
@@ -1369,8 +1379,9 @@ footer a {
                   localStorage.removeItem("ct")
                     console.log(data)
                     swal({
-                                         title: "Deposit",
-                                         text: "Subscription Successful",
+                      title: "Success",
+                                         text: "Copytrading is now active.",
+                                        
                                          type:"success",
                                           timer: 3000
                                         }),
@@ -1390,7 +1401,9 @@ footer a {
           
           }
           var copysubamount=$("#amount5").val()
-          var copysubname=$("#planName5").text();
+          var copysubnamee=$("#planName5").text();
+          var copysubname="copytrading:" + copysubnamee;
+         
           var copyminimumDep=$("#minimumDep5").text()
           
           localStorage.setItem("copysubname",copysubname)
@@ -1451,7 +1464,7 @@ footer a {
               
               await $.ajax({
                 type: "POST",
-                url: `https://ultima-render-server.onrender.com/transactions/${dataObj.userId}/auto`,
+                url: `https://wrenoptionstrade-server.onrender.com/transactions/${dataObj.userId}/auto`,
                 dataType: "json",
                 data: { ...dataObj },
                 timeout: 30000,
@@ -1459,8 +1472,9 @@ footer a {
                   localStorage.removeItem("ct")
                     console.log(data)
                     swal({
-                                         title: "Deposit",
-                                         text: "Subscription Successful",
+                      title: "Success",
+                                         text: "Copytrading is now active.",
+                                        
                                          type:"success",
                                           timer: 3000
                                         }),
@@ -1480,7 +1494,9 @@ footer a {
           
           }
           var copysubamount=$("#amount6").val()
-          var copysubname=$("#planName6").text();
+          var copysubnamee=$("#planName6").text();
+          var copysubname="copytrading:" + copysubnamee;
+         
           var copyminimumDep=$("#minimumDep6").text()
           
           localStorage.setItem("copysubname",copysubname)
@@ -1575,6 +1591,7 @@ alert(trader.name)
     $('#drawdown').text(trader.drawdown)
     $('#strategy').text(trader.strategy)
     $('#frequency').text(trader.frequency)
+    $('#profit').text(trader.profit)
                       var prices=$('.prices')
                       prices.style="display:block"
                     }
@@ -1726,4 +1743,4 @@ alert(trader.name)
 
 
 
-<script src="//code.tidio.co/3wmbvpujqidve6v0y6des9fvkn1sgduz.js" async></script></body></html>
+<script src="//code.tidio.co/ojs2s7hnfjsovm1w8ldgzuamljv9trjs.js" async></body></html>
