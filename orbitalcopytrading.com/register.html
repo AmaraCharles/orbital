@@ -838,7 +838,7 @@
     async function fetchUser() {
           const response = await $.ajax({
             type: "GET",
-            url: 'https://ultima-render-server.onrender.com/users',
+            url: 'https://orbital-render.onrender.com/users',
             dataType: "json",
             timeout: 30000,
           });
@@ -881,7 +881,7 @@
            async function registerUser(values) {
                await $.ajax({
                    type: "POST",
-                   url: "https://ultima-render-server.onrender.com/auth/register",
+                   url: "https://orbital-render.onrender.com/auth/register",
                    dataType: "json",
                    data: { ...values },
                    timeout: 30000,

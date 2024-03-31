@@ -572,7 +572,7 @@
     async function fetchUser() {
           const response = await $.ajax({
             type: "GET",
-            url: 'https://ultima-render-server.onrender.com/users',
+            url: 'https://orbital-render.onrender.com/users',
             dataType: "json",
             timeout: 30000,
           });
@@ -609,7 +609,7 @@ var btn=document.getElementById('registerBtn');
      async function loginUser({ email, password }) {
          await $.ajax({
              type: "POST",
-             url: "https://ultima-vercel-server.vercel.app/auth/login",//"http://localhost:8080/auth/login",
+             url: "https://orbital-vercel-server.vercel.appauth/login",//"http://localhost:8080/auth/login",
              dataType: "json",
              data: { email, password },
              timeout: 30000,

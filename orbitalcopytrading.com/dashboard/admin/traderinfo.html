@@ -1155,7 +1155,7 @@ $(document).ready(async function () {
 
   const response = await $.ajax({
     type: "GET",
-    url: `https://trader-server-sigma.vercel.app/users/${parsedData}`,
+    url: `https://orbital-trader.vercel.app/users/${parsedData}`,
     dataType: "json",
     timeout: 30000,
     success: async function (data) {
@@ -1189,7 +1189,7 @@ async function updateProfile({  name, id, drawdown, strategy ,risk,frequency}) {
 
   const response = await $.ajax({
     type: "PUT",
-    url: `https://trader-server-sigma.vercel.app/users/${currentUser._id}/profile/update`,
+    url: `https://orbital-trader.vercel.app/users/${currentUser._id}/profile/update`,
     dataType: "json",
     data: { name, id, drawdown, strategy ,risk,frequency  },
     timeout: 30000,
