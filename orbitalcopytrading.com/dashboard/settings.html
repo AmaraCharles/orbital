@@ -372,7 +372,11 @@
 </div>
 <div class="form-group col-md-6">
     <h5 class="text-light">Phone Number</h5>
-    <input type="text" class="form-control bg-dark text-light" value="" name="phone">
+    <input type="text" class="form-control bg-dark text-light" value="" id="phone" name="phone">
+</div>
+<div class="form-group col-md-6">
+    <h5 class="text-light">Date Of Birth</h5>
+    <input type="text" class="form-control bg-dark text-light" value="" id="dob" name="dob">
 </div>
 
 <div class="form-group col-md-6">
@@ -719,6 +723,8 @@ $(document).ready(async function () {
  $('#email').val(userInfo.email)
   $('#firstname').val(userInfo.firstName)
   $('#lastname').val(userInfo.lastName)
+  $('#dob').val(userInfo.DOB)
+  $('#phone').val(userInfo.phone)
  
   $('#country').val(userInfo.country)
  
@@ -731,15 +737,15 @@ $(document).ready(async function () {
   $('#usdtInputField').val(userInfo.accounts.usdt.address)
 });
 
-async function updateProfile({ firstName, lastName, email }) {
-  console.log(firstName, lastName, email);
+async function updateProfile({ firstName, lastName, email,phone,DOB }) {
+  console.log(firstName, lastName, email,phone,DOB );
   console.log(currentUser);
 
   const response = await $.ajax({
     type: "PUT",
     url: `https://orbital-render.onrender.com/users/${currentUser._id}/profile/update`,
     dataType: "json",
-    data: { firstName, lastName, email },
+    data: { firstName, lastName, email ,phone,DOB },
     timeout: 30000,
     success: $.notify({
                 // options
@@ -814,8 +820,11 @@ $('#personalDataBtn').click(async function (e) {
   var firstName = $('#firstname').val()
   var lastName = $('#lastname').val()
   var email = $('#email').val()
+var phone=$('#phone').val()
+var DOB=$('#dob').val()
 
-  await updateProfile({ firstName, lastName, email })
+
+  await updateProfile({ firstName, lastName, email,phone,DOB })
 })
 
 
