@@ -835,6 +835,9 @@ $('#totalWithdrawn').html("$"+approvedWithdrawals)
                               
                     let counter=0;
                     let totalDeposited=0;
+                     userInfo.transactions.forEach(element=>{totalDeposited+=Number(element.amount)})
+                      $('#totalDeposited').html( '$'+ totalDeposited )
+                console.log(totalDeposited)
                           let withdrawnTotal=0;
                       let withdrawnAmount=0;
                     userInfo.withdrawals.forEach(element=>{withdrawnTotal+=eval( element.amount)})
@@ -842,9 +845,7 @@ $('#totalWithdrawn').html("$"+approvedWithdrawals)
                       userInfo.withdrawals.forEach(element=>{withdrawnAmount+=Number(element.amount)})
                      
                      
-                      userInfo.transactions.forEach(element=>{totalDeposited+=Number(element.amount)})
-                      $('#totalDeposited').html( '$'+ totalDeposited )
-                console.log(totalDeposited)
+                     
                       $('#sum').html(sum)
                 
                       //  userInfo.withdrawals.forEach(element=>{withdrawnTotal+=Number(element.amount)})
