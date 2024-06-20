@@ -419,7 +419,7 @@
 												<input type="hidden" name="_token" value="XGzZYgYnF9Hjjk2PHdtxJS0dAesYt7sTt0rtU49o">												<div class="row">
 													<div class="mb-4 col-md-12">
 														<h5 class="card-title text-light">Enter Amount</h5>
-														<input class="form-control text-light bg-dark" placeholder="Enter Amount" type="number" name="amount" id="amount" required="">
+														<input class="form-control text-light bg-dark" placeholder="Enter Amount" type="number" name="amount" id="amount" required>
 													</div>
 													<div class="mb-4 col-md-12">
 														<input type="hidden" name="payment_method" id="paymethod">
@@ -550,11 +550,14 @@
 				
 				 function proceed() {
 					var depositing=document.getElementById("amount").value;
+					if(depositing==""){alert("Please Input amount.")}
+					else{
 					localStorage.setItem('depositing',depositing)
 					var url=localStorage.getItem("paymentId")
 					var urlRedirect = "./" + url + ".html";
 				
 					location.href=urlRedirect;
+					}
 					// if (paymethod == "") {
 					// 	$.notify({
 					// 		// options
